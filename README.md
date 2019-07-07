@@ -1,1 +1,1 @@
-# qiML
+# Quantum-inspired Canonical Correlation Analysis
