@@ -14,7 +14,7 @@ Koide-Majima, N., Majima, K. (2019).<br>
 * numpy, scipy, matplotlib
 
 ### Demo
-To run qiSVD and qiCCA, see demo.py or demo.ipynb.<br><br>
+To run qiSVD and qiCCA, see demo.py or demo.ipynb.<br>
 
 ### Further reading:
 * [Tang, E. (2018). "A quantum-inspired classical algorithm for recommendation systems." _arXiv preprint arXiv:1807.04271_.](https://arxiv.org/abs/1807.04271)
