@@ -1,1 +1,1 @@
-# Quantum-inspired Canonical Correlation Analysis
+# Quantum-inspired Machine Learning
