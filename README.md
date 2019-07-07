@@ -5,7 +5,7 @@
 * Quantum-inspired Singular Value Decomposition (qiSVD)
 
 ### Citation
-If you use qiCCA in your published work, please cite the following paper :<br>
+If you use qiCCA in your published work, please cite the following preprint :<br>
 Koide-Majima, N., Majima, K. (2019).<br>
 “Quantum-inspired canonical correlation analysis for exponentially large dimensional data”<br>
 
