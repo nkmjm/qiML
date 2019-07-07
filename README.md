@@ -2,16 +2,16 @@
 
 ## Available methods
 * Quantum-inspired Canonical Correlation Analysis (qiCCA)
-* Quantum-inspired Singular Value Decomposition (qiSVD)(*)
+* Quantum-inspired Singular Value Decomposition (qiSVD) *
 
 ## Citation
-If you use qiCCA in your published work, please cite the following paper.<br>
+If you use qiCCA in your published work, please cite the following paper.<br><br>
 Koide-Majima, N., Majima, K. (2019).<br>
 “Quantum-inspired canonical correlation analysis for exponentially large dimensional data”<br>
 
 ## Requirements
 * python 3
-* modules: numpy, scipy, matplotlib
+* numpy, scipy, matplotlib
 
 ## Demo
 To run qiSVD and qiCCA, see demo.py or demo.ipynb.
