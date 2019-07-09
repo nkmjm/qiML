@@ -6,8 +6,8 @@
 
 ### Citation
 If you use qiCCA in your published work, please cite the following preprint :<br>
-Koide-Majima, N., Majima, K. (2019).<br>
-“Quantum-inspired canonical correlation analysis for exponentially large dimensional data”<br>
+[Koide-Majima, N., Majima, K. (2019).<br>
+“Quantum-inspired canonical correlation analysis for exponentially large dimensional data”](https://arxiv.org/abs/1907.03236)<br>
 
 ### Requirements
 * python 3
